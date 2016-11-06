@@ -12,8 +12,8 @@ email: hello@reposado.club
 description: |
   A collective of Tequila aficianados and collectors <br />
   sharing the latest information about agave elixirs
-baseurl: "/"
-url: "https://reposado-club.github.io"
+baseurl: ""
+url: "https://reposado.club"
 author: 
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -37,20 +37,20 @@ tiles-count: 6
 500px_url: 
 facebook_url: 
 github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/ReposadoClub
 
 # Build settings
 markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: ReposadoClub
 # Add one or more of the following
 facebook:
   app_id: 
